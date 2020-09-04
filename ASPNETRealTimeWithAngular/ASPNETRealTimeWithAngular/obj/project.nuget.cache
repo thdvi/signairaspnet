@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IDiQ1EhWE9rSQ88x+rYq6v2uKWIiYb5yCSgbGBzhprdpiSSY5yeY0KHgBhvx2qXgrlLx1lQN3bNUjRU/f8N5hg==",
+  "success": true,
+  "projectFilePath": "D:\\ASPNETRealTimeWithAngular\\ASPNETRealTimeWithAngular\\ASPNETRealTimeWithAngular\\ASPNETRealTimeWithAngular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thdvi.TMA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
